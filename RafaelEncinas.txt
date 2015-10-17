@@ -2,3 +2,6 @@
 Endereço: Rua Projetada B , n. 354
 Profissão: Analista de Sistemas
 Empresa: Imepel Indústria Mecânica Ltda
+CEP: 88802-230
+Bairro: Demboski
+Município: Criciuma
