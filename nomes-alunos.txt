@@ -1,4 +1,4 @@
-Artur
+﻿Artur
 Charles
 Cristina
 Fabricio
@@ -15,7 +15,7 @@ Kassia
 Lucas
 Nilemar
 Niler
-Rafael E
+Rafael Encinas
 Rafael F
 Rangel
 Renato
