@@ -1,0 +1,7 @@
+Nome: Kassia
+Endereço: Rua Antônio Fortunato Volpato
+Profissão: Analista de Negócio
+Empresa: Trier Sistemas
+Cep: 88750-000
+Bairro: União
+Município: Braço do Norte
