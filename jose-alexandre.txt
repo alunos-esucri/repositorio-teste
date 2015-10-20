@@ -1,0 +1,7 @@
+Nome: José Alexandre
+Endereço: Rua Garibaldi Veronêz, 72 
+Profissão: Analista Programador
+Empresa: Trier Sistemas
+Cep: 88735-000
+Bairro: Jardim Andréia
+Município: Gavatal
