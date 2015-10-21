@@ -6,21 +6,12 @@ Felipe da Silva
 Felipe Orige Eugênio
 Fernando Jose
 Fernando Martins
-<<<<<<< HEAD
 Giliardi Alexandre
 Hallan
 Henrique
 Jayme Mattos de Souza
 josé
 Kassia
-=======
-Giliardi
-Hallan Serafim Pagani
-Henrique
-Jayme
-José Alexandre Fidelis
-Kassia Dorigon Perin
->>>>>>> 64886923e10cb2ad8c6716561a73183e6d593a81
 Lucas
 Nilemar
 Niler
